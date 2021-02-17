@@ -47,7 +47,7 @@ public class mainTest {
             BufferedReader read = new BufferedReader(new InputStreamReader(urlConnection.getInputStream()));
             String resp = read.readLine();
             read.close();
-            assertTrue(resp.contains("BogotÃ"));
+            assertTrue(resp.contains("Bogot"));
         } catch (Exception ex) {
             Logger.getLogger(mainTest.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -88,7 +88,7 @@ public class mainTest {
             BufferedReader read = new BufferedReader(new InputStreamReader(urlConnection.getInputStream()));
             String resp = read.readLine();
             read.close();
-            assertTrue(resp.contains("BogotÃ"));
+            assertTrue(resp.contains("Bogot"));
         } catch (Exception ex) {
             Logger.getLogger(mainTest.class.getName()).log(Level.SEVERE, null, ex);
         }
