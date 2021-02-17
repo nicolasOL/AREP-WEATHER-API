@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="edu.escuelaing.arem.clima.mainTest" time="2.239" tests="5" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="edu.escuelaing.arem.clima.mainTest" time="8.739" tests="5" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="CO"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_221\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\User\AppData\Local\Temp\surefire7815079755874912563\surefirebooter703977618042549842.jar C:\Users\User\AppData\Local\Temp\surefire7815079755874912563 2021-02-17T14-51-14_474-jvmRun1 surefire2012487174607871701tmp surefire_03520262589126064186tmp"/>
+    <property name="sun.java.command" value="C:\Users\User\AppData\Local\Temp\surefire3919579725392719746\surefirebooter3031101267803669335.jar C:\Users\User\AppData\Local\Temp\surefire3919579725392719746 2021-02-17T15-00-10_643-jvmRun1 surefire5107976918884082874tmp surefire_01153615097632117564tmp"/>
     <property name="surefire.test.class.path" value="C:\Users\User\Desktop\AREP\Parcial\AREP-WEATHER-API\target\test-classes;C:\Users\User\Desktop\AREP\Parcial\AREP-WEATHER-API\target\classes;C:\Users\User\.m2\repository\com\sparkjava\spark-core\2.5.4\spark-core-2.5.4.jar;C:\Users\User\.m2\repository\org\slf4j\slf4j-api\1.7.13\slf4j-api-1.7.13.jar;C:\Users\User\.m2\repository\org\eclipse\jetty\jetty-server\9.3.6.v20151106\jetty-server-9.3.6.v20151106.jar;C:\Users\User\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar;C:\Users\User\.m2\repository\org\eclipse\jetty\jetty-http\9.3.6.v20151106\jetty-http-9.3.6.v20151106.jar;C:\Users\User\.m2\repository\org\eclipse\jetty\jetty-util\9.3.6.v20151106\jetty-util-9.3.6.v20151106.jar;C:\Users\User\.m2\repository\org\eclipse\jetty\jetty-io\9.3.6.v20151106\jetty-io-9.3.6.v20151106.jar;C:\Users\User\.m2\repository\org\eclipse\jetty\jetty-webapp\9.3.6.v20151106\jetty-webapp-9.3.6.v20151106.jar;C:\Users\User\.m2\repository\org\eclipse\jetty\jetty-xml\9.3.6.v20151106\jetty-xml-9.3.6.v20151106.jar;C:\Users\User\.m2\repository\org\eclipse\jetty\jetty-servlet\9.3.6.v20151106\jetty-servlet-9.3.6.v20151106.jar;C:\Users\User\.m2\repository\org\eclipse\jetty\jetty-security\9.3.6.v20151106\jetty-security-9.3.6.v20151106.jar;C:\Users\User\.m2\repository\org\eclipse\jetty\websocket\websocket-server\9.3.6.v20151106\websocket-server-9.3.6.v20151106.jar;C:\Users\User\.m2\repository\org\eclipse\jetty\websocket\websocket-common\9.3.6.v20151106\websocket-common-9.3.6.v20151106.jar;C:\Users\User\.m2\repository\org\eclipse\jetty\websocket\websocket-client\9.3.6.v20151106\websocket-client-9.3.6.v20151106.jar;C:\Users\User\.m2\repository\org\eclipse\jetty\websocket\websocket-servlet\9.3.6.v20151106\websocket-servlet-9.3.6.v20151106.jar;C:\Users\User\.m2\repository\org\eclipse\jetty\websocket\websocket-api\9.3.6.v20151106\websocket-api-9.3.6.v20151106.jar;C:\Users\User\.m2\repository\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\User\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\User\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\User\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\User\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\User\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\User"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\User\AppData\Local\Temp\surefire7815079755874912563\surefirebooter703977618042549842.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\User\AppData\Local\Temp\surefire3919579725392719746\surefirebooter3031101267803669335.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files (x86)\Java\jdk1.8.0_221\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.8.0_221\jre\lib\rt.jar;C:\Program Files (x86)\Java\jdk1.8.0_221\jre\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jdk1.8.0_221\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.8.0_221\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.8.0_221\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.8.0_221\jre\lib\jfr.jar;C:\Program Files (x86)\Java\jdk1.8.0_221\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
@@ -60,9 +60,9 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="testConsultWeatherBogotaHeroku" classname="edu.escuelaing.arem.clima.mainTest" time="1.53"/>
-  <testcase name="testConsultWeatherBogota" classname="edu.escuelaing.arem.clima.mainTest" time="0.169"/>
+  <testcase name="testConsultWeatherBogotaHeroku" classname="edu.escuelaing.arem.clima.mainTest" time="8"/>
+  <testcase name="testConsultWeatherBogota" classname="edu.escuelaing.arem.clima.mainTest" time="0.247"/>
   <testcase name="testGetPort" classname="edu.escuelaing.arem.clima.mainTest" time="0.001"/>
-  <testcase name="testConsultWeatherLondon" classname="edu.escuelaing.arem.clima.mainTest" time="0.087"/>
-  <testcase name="testConsultWeatherLondonHeroku" classname="edu.escuelaing.arem.clima.mainTest" time="0.443"/>
+  <testcase name="testConsultWeatherLondon" classname="edu.escuelaing.arem.clima.mainTest" time="0.126"/>
+  <testcase name="testConsultWeatherLondonHeroku" classname="edu.escuelaing.arem.clima.mainTest" time="0.359"/>
 </testsuite>
