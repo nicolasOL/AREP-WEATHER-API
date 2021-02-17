@@ -23,7 +23,7 @@ Debe usar spark o sockets.
   * Maven 
   * Java 
   * Git
-  
+  * Spark  
   
 
  ### Como usarlo?
@@ -59,8 +59,13 @@ Los datos del programa se reciben por entrada en el despliegue separados por esp
 Para ejecutar las pruebas es necesario ejecutar:
 ```
 mvn test
-```      
-Ademas se puede probar con el despliegue en Heroku de la siguiente maenra:
+```     
+
+El proyecto cuenta con 5 pruebas unitarias que se ejecutan correctamente:
+
+ ![TEST](https://github.com/nicolasOL/AREP-WEATHER-API/blob/main/images/Test.JPG)
+ 
+Ademas se puede probar con el despliegue en Heroku de la siguiente manera:
 https://arep-clima-api.herokuapp.com/clima?lugar=XXXXX
 Donde las XXXX representan la ciudad que quieras buscar
 Retornando un Json exactamente igual al que retorna el servicio de openweathermap denominado "Current Weather Data". Asegurese que el tipo de retorno sea Json.
