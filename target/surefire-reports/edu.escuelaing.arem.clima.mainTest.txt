@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: edu.escuelaing.arem.clima.mainTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.068 s - in edu.escuelaing.arem.clima.mainTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.239 s - in edu.escuelaing.arem.clima.mainTest
