@@ -8,6 +8,7 @@ package edu.escuelaing.arem.clima.model;
 /**
  *
  * @author Nicolás
+ * Clase que guarda la informacion del clima de una ciudad
  */
 public class DatosCiudad {
     
@@ -30,10 +31,7 @@ private String nombre;
 		this.humedad = humedad;
 		this.presion = presion;
 	}
-	
-	
-	
-	
+		
 	public String getNombre() {
 		return nombre;
 	}

@@ -16,6 +16,7 @@ import static spark.Spark.*;
 /**
  *
  * @author Nicolás
+ * Clase que sube el servicio usando spark consumiendo el OpenWeather API
  */
 public class main {
     public static void main(String[] args) {
@@ -43,7 +44,7 @@ public class main {
     }
 
     /**
-     * Calcula la media de un str de con la lista de numeros
+     * Consume el API del clima para mostrar la informacion
      */
     public static void consultWeather() {
         final String key = "170e2a5df68abbdd9ad25546e7239918";
@@ -55,6 +56,7 @@ public class main {
                 String ciudad = map.get("lugar").value();
                 climaCache cache=climaCache.getInstace();
                 String resp= null;
+                
                 if (cache.contains(ciudad)){
                     resp = cache.getElement(ciudad);
                 }else{

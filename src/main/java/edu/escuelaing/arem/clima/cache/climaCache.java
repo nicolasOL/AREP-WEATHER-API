@@ -10,6 +10,7 @@ import java.util.HashMap;
 /**
  *
  * @author Nicolás
+ * Clase Singleton que guarda el cache usando un Hashmap
  */
 public class climaCache {
     private HashMap<String,String> cache;
