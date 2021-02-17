@@ -9,7 +9,7 @@ Así, han decidido que usted debe construir un webservice  para consultar el est
 
   Diseño de la aplicación
   
-  ![Diseño1](https://github.com/nicolasOL/)
+  ![Diseño1](https://github.com/nicolasOL/AREP-WEATHER-API/blob/main/images/Diagram.png)
 
 Debe usar spark o sockets.
 
@@ -75,4 +75,4 @@ Para encontrar toda la documentación relacionada puedes hacer click [aqui](http
   
   ## License
   
-  This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/nicolasOL/Interpretes-canales-de-comunicacion-y-memoria/blob/master/LICENSE.txt)
+  This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/nicolasOL/AREP-WEATHER-API/blob/main/LICENSE.txt)
